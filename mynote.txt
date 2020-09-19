@@ -1,0 +1,24 @@
+pseudocode
+create enemies (bugs), like five (5) of them. 
+    know the starting and end point of canvas. 
+    0 and 400
+    bug should start from -90 to 500
+    determine how bugs can move in the canvas.
+    make one enemy move from starting point to end point in canvas
+    replicate same for other bugs
+    determine how to increase speed of movement for one bug
+    replicate same for others
+create player classs that will inherit and Override the properties from Enemy Class.
+create player object 
+
+
+
+player should be able to move up,down,left and right with the keyboard. 
+determine top and bottom limit for canvas
+top ---> -5
+bottom ---> 400
+
+when player gets to the top (blue water), player should be redirected to the origin (green grass)
+
+
+
